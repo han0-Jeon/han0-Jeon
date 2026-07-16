@@ -1,16 +1,18 @@
-## Hi there 👋
+# HANO
 
-<!--
-**han0-Jeon/han0-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Agentic Solo Founder
 
-Here are some ideas to get you started:
+I build with AI — not as a feature, but as the operating system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working lean: start small, ship early, learn from real use, and compound what works.
+
+**Exploring**
+
+- Autonomous agents
+- AI-native products
+- Intelligent workflows
+- Automation & leverage
+
+> Build small. Learn fast. Compound with AI.
+
+Seoul, South Korea
